@@ -3,5 +3,5 @@ RFM analizi (Recency - Yenilik, Frequency - Sıklık, Monetary - Parasal Değer)
 
 Bu çalışmada, müşteri satın alma verilerini analiz ederek her müşterinin en son ne zaman alışveriş yaptığı (Recency), ne sıklıkla alışveriş yaptığı (Frequency) ve toplamda ne kadar harcama yaptığı (Monetary) gibi temel metrikleri hesaplıyoruz. 
 
-Veri setini aşağıdaki link üzerinden indirebilirsiniz.
+Veri setini kaggle.com sitesinden indirebilirsiniz.
 https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
